@@ -1,0 +1,3 @@
+[submodule "rustboyadvance-ng"]
+	path = rustboyadvance-ng
+	url = https://github.com/michelhe/rustboyadvance-ng
